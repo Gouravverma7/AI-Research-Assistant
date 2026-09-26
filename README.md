@@ -1,4 +1,4 @@
-# 🔎 Research Assistant
+# 🔎 AI-Research Assistant
 
 An AI-powered research assistant built with **Java Spring Boot** and a **Chrome Extension**. The application provides a browser-based research interface that communicates with a Spring Boot backend and uses **Google Gemini** to generate research-oriented responses.
 
